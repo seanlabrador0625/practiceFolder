@@ -89,7 +89,7 @@ section{
 
 
 /* C O L U M N S */
-/* .columns{
+.columns{
     column-count: 4;
     column-width: 250px; 
     columns: 4 250px;
@@ -119,7 +119,7 @@ section{
 
 .nowrap{
     white-space: nowrap;
-} */
+}
 
 /* G R I D */
 
